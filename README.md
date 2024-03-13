@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning ReactJs and Next.js
 
-- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Alt text" width="100">
-- <img src="[https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)" alt="Alt text" width="100">
+- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next" width="50">
+- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50">
 
 
 <!--
