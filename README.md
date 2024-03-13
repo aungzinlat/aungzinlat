@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋.I am Aung Zin Lat!⚡.
+
+- 🌱 I’m currently learning ReactJs and Next.js
 
 <!--
 **aungzinlat/aungzinlat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
