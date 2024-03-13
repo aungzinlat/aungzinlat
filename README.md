@@ -1,8 +1,10 @@
 ### Hello there 👋.I am Aung Zin Lat!⚡.
 
 - 🌱 I’m currently learning ReactJs and Next.js
-![Alt text](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)
-![Alt text](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
+
+- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Alt text" width="100">
+- <img src="[https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)" alt="Alt text" width="100">
+
 
 <!--
 **aungzinlat/aungzinlat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
